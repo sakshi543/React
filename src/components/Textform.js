@@ -29,7 +29,7 @@ export default function Textform(props) {
             <button className="btn btn-success mx-1" onClick={handleUpClick}> Convert to upper</button>
             <button className="btn btn-success mx-1" onClick={handleDoClick}> Convert to lower</button>
             <button className="btn btn-success mx-1" onClick={clearTxt}> Clear Text</button>
-            
+            <button className="btn btn-success mx-1" onClick={clearTxt}> Submit</button>
 
         </div>
         <div className="container">
