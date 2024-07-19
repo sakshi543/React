@@ -30,7 +30,7 @@ export default function Textform(props) {
             <button className="btn btn-success mx-1" onClick={handleDoClick}> Convert to lower</button>
             <button className="btn btn-success mx-1" onClick={clearTxt}> Clear Text</button>
             <button className="btn btn-success mx-1" onClick={clearTxt}> Submit</button>
-
+            <button className="btn btn-success mx-1" onClick={clearTxt}> Submit</button>
         </div>
         <div className="container">
             <h2>Your text summary</h2>
